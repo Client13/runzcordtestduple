@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+include requirements.txt
+include runzcord/bin/*.dll
+include runzcord/py.typed
