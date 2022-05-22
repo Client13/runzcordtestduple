@@ -102,14 +102,4 @@ bot.run("BOT_TOKEN")
 
 You can find more examples in the [examples directory](./examples).
 
-<br>
-<p align="center">
-    <a href="https://docs.disnake.dev/">Documentation</a>
-    ⁕
-    <a href="https://guide.disnake.dev/">Guide</a>
-    ⁕
-    <a href="https://discord.gg/disnake">Discord Server</a>
-    ⁕
-    <a href="https://discord.gg/discord-developers">Discord Developers</a>
-</p>
-<br>
+
